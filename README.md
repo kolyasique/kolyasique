@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **CSS3**
 
-- 📫 How to reach me **dontmissyourluckemployme@gmail.com**
+- 📫 How to reach me **nikolayvadimovich@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
