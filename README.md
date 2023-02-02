@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikolai</h1>
 <h3 align="center">FullStack JavaScript Developer</h3>
 
-- 📫 How to reach me **nikolayvadimovich@icloud.com**
+📫 How to reach me:
+- E-mail: **nikolayvadimovich@icloud.com**
+- Telegram: **https://t.me/nikolayvadimovich**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
