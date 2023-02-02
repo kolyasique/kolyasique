@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikolay</h1>
-<h3 align="center">Full-stack developer</h3>
-
-- 💬 Ask me about **CSS3**
+<h1 align="center">Hi 👋, I'm Nikolai</h1>
+<h3 align="center">FullStack JavaScript Developer</h3>
 
 - 📫 How to reach me **nikolayvadimovich@icloud.com**
 
