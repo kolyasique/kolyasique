@@ -3,7 +3,7 @@
 
 📫 How to reach me:
 - E-mail: **nikolayvadimovich@icloud.com**
-- Telegram: **https://t.me/nikolayvadimovich**
+- Telegram: **https://t.me/kolyasique**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
